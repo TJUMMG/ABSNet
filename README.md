@@ -37,6 +37,6 @@ Link：https://pan.baidu.com/s/1dPkwMpotQQhSQql4r42TFQ
 pwd：oxgw 
 
 ### 6. Some Comparsions in our paper.
-![Image text]()
-![Image text]()
+![Image text](https://github.com/TJUMMG/ABSNet/blob/main/PNG/%E5%9B%BE%E7%89%871.png)
+![Image text](https://github.com/TJUMMG/ABSNet/blob/main/PNG/%E5%9B%BE%E7%89%872.png)
 
