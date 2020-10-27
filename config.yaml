@@ -1,0 +1,32 @@
+
+### database ###
+Salicon:
+  shape_r: 320
+  shape_c: 480
+  #imgs_train_path: /home/syang/ysdata/LSUN2015/train2014/
+  #maps_train_path: /home/syang/ysdata/LSUN2015/maps/train/
+  #imgs_val_path: /home/syang/ysdata/LSUN2015/val2014/
+  #maps_val_path: /home/syang/ysdata/LSUN2015/maps/val/
+  imgs_train_path: /media/ubuntu/60E91B872FDF4622/ljc/database/SALICON/train_images/
+  maps_train_path: /media/ubuntu/60E91B872FDF4622/ljc/database/SALICON/salicon17_maps/train/
+  imgs_val_path: /media/ubuntu/60E91B872FDF4622/ljc/database/SALICON/val_images/
+  maps_val_path: /media/ubuntu/60E91B872FDF4622/ljc/database/SALICON/salicon17_maps/val/
+
+MIT-1003:
+  shape_r: 320
+  shape_c: 480
+  imgs_train_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLSTIMULI/ALLSTIMULI/
+  maps_train_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLFIXATIONMAPS/ALLFIXATIONMAPS/
+  imgs_val_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLSTIMULI/ALLSTIMULI/
+  maps_val_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLFIXATIONMAPS/ALLFIXATIONMAPS/
+
+
+#Ava:
+MIT-300:
+  shape_r: 320
+  shape_c: 480
+  imgs_train_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLSTIMULI/ALLSTIMULI/
+  maps_train_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLFIXATIONMAPS/ALLFIXATIONMAPS/
+  imgs_val_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_300/BenchmarkIMAGES/BenchmarkIMAGES/
+  maps_val_path: /media/ubuntu/074E446A247F62BF/lvjc/database/MIT_1003_dataset/ALLFIXATIONMAPS/ALLFIXATIONMAPS/
+
