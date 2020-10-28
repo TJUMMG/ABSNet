@@ -30,7 +30,7 @@ Download the following datasets and unzip them into `data` folder.
 Download pre-trained model [BaiduYun](https://pan.baidu.com/s/1n1ghq2miscXB_cLQKJddPw) (pwd: **4jk1**)
 This pre-trained model is for multi-task dalited resnet(MT-DRN), you should set 'weightfile' correctly.
 
-### 4. Train and Test our model
+### 4. Test our model
 
 - For testing sal branch, you should set config.yaml correctly and load pretrained pkl correctly, and then run main_sal_drn.py.
 
