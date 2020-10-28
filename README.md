@@ -38,8 +38,8 @@ This pre-trained model is for multi-task dalited resnet(MT-DRN), you should set 
 https://github.com/cvzoya/saliency
 
 ### 6. Test Results of MT-DRN on SALICON Validation/TEST Set and MIT1003 DataSet.
-- SALICON Validation Set: Link：https://pan.baidu.com/s/1dPkwMpotQQhSQql4r42TFQ  pwd：oxgw 
-- SALICON Test Set:
+- SALICON Validation Set: Link：https://pan.baidu.com/s/1dPkwMpotQQhSQql4r42TFQ  pwd: oxgw 
+- SALICON Test Set: Link: https://pan.baidu.com/s/1FygM6C1Su_6bcCivBW3QQw  pwd: 6yqq 
 - MIT1003 DataSet: 
 
 ### 7. Some Comparsions in our paper.
