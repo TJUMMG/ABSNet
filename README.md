@@ -3,7 +3,7 @@ ABSNet: Aesthetics-Based Saliency Network using Multi-Task Convolutional Network
 
 ### This is a Tensorflow implementation of IEEE Signal Processing Letters2020.
 
-## Prerequisites
+## Requisites
 
 - opencv-python 4.1.1
 - numpy 1.16.1
