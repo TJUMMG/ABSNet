@@ -1,6 +1,6 @@
 # ABSNet
 - ABSNet: Aesthetics-Based Saliency Network using Multi-Task Convolutional Network(IEEE Signal Processing Letters2020)
-- @ARTICLE{_,  author={Jing Liu, Jincheng Lv, Min Yuan, Jing Zhang, and Yuting Su},  journal={IEEE Signal Processing Letters},   title={Aesthetics-Based Saliency Network using Multi-Task Convolutional Network},   year={2020},  volume={},  number={},  pages={},  doi={}}
+- @ARTICLE{ABSNet,  author={Jing Liu, Jincheng Lv, Min Yuan, Jing Zhang, and Yuting Su},  journal={IEEE Signal Processing Letters},   title={Aesthetics-Based Saliency Network using Multi-Task Convolutional Network},   year={2020},  volume={},  number={},  pages={},  doi={}}
 
 ### This is a Tensorflow implementation of IEEE Signal Processing Letters2020.
 
