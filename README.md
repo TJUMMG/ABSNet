@@ -27,7 +27,7 @@ Download the following datasets and unzip them into `data` folder.
 
 ### 3. Download the pre-trained models for backbone
 
-Download pre-trained model [BaiduYun](https://pan.baidu.com/s/1n1ghq2miscXB_cLQKJddPw) (pwd: **4jk1**)  This pre-trained model is for multi-task dalited resnet(MT-DRN), you should set 'weightfile' correctly.
+Download pre-trained model [BaiduYun](https://pan.baidu.com/s/1n1ghq2miscXB_cLQKJddPw) (pwd: **4jk1**).  This pre-trained model is for multi-task dalited resnet(MT-DRN), you should set 'weightfile' correctly.
 
 ### 4. Test our model
 
