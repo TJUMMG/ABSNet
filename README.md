@@ -1,7 +1,7 @@
 # ABSNet
 - ABSNet: Aesthetics-Based Saliency Network using Multi-Task Convolutional Network(IEEE Signal Processing Letters2020)
 - @ARTICLE{ABSNet,  
-           >author={Jing Liu, Jincheng Lv, Min Yuan, Jing Zhang, and Yuting Su},  
+           >>author={Jing Liu, Jincheng Lv, Min Yuan, Jing Zhang, and Yuting Su},  
            journal={IEEE Signal Processing Letters},   
            title={Aesthetics-Based Saliency Network using Multi-Task Convolutional Network},   
            year={2020},  
