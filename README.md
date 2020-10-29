@@ -8,7 +8,7 @@
            volume={},  
            number={},  
            pages={},  
-           doi={}
+           doi={10.1109/LSP.2020.3035065}
            }
 
 ### This is a Tensorflow implementation of IEEE Signal Processing Letters2020.
